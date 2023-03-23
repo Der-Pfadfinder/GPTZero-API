@@ -3,7 +3,7 @@ import fs from 'fs';
 import { fetcher } from "./util";
 import { ENSPOINTS } from "./Constants";
 import FormData from 'form-data';
-import { PDFDocument } from 'pdfkit';
+import PDFDocument from 'pdfkit';
 
 export class GPTZeroTextAPI {
     constructor(APIKey: string) {
