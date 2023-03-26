@@ -1,14 +1,14 @@
 {
   "name": "gptzero-api",
-  "version": "1.0.0",
-  "description": "A ts package for using GPTZero, plus some convenient export options.",
+  "version": "1.0.2",
+  "description": "A lightweight ts package for using GPTZero, plus some convenient export options. Now support PDF export.",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Der-Pfadfinder/GPTZero-ts.git"
+    "url": "git+https://github.com/Der-Pfadfinder/GPTZero-API.git"
   },
   "keywords": [
     "GPTZero",
@@ -18,9 +18,9 @@
   "author": "thrawnk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Der-Pfadfinder/GPTZero-ts/issues"
+    "url": "https://github.com/Der-Pfadfinder/GPTZero-API/issues"
   },
-  "homepage": "https://github.com/Der-Pfadfinder/GPTZero-ts#readme",
+  "homepage": "https://github.com/Der-Pfadfinder/GPTZero-API#readme",
   "dependencies": {
     "form-data": "^4.0.0",
     "node-fetch": "^3.3.1",

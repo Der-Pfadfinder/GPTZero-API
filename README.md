@@ -4,7 +4,7 @@ A TS library for GPTZero featuring getting raw response from api.gptzero.me and 
 
 ## Installation
 
-Simply run `npm i gptzero`
+Simply run `npm i gptzero-api` and you're good to go.
 
 ## Use
 
